@@ -1,0 +1,18 @@
+{
+    "name": "laravelchen/laravel-geetest",
+    "description": "laravel-geetest",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LaravelChen",
+            "email": "848407695@qq.com"
+        }
+    ],
+    "autoload":{
+      "psr-4":{
+          "LaravelChen\\Geetest\\":"src/"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
