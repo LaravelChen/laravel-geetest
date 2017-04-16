@@ -23,8 +23,11 @@ composer require laravelchen/laravel-geetest
 ]
 ```
 #### 在env文件里面增加如下:
+```
 GEETEST_ID=ID57cfd6d22b89xxxxxxxd1824ce94a2
 GEETEST_KEY=8214f76999114xxxxxxxx2923c42b31
+```
+
 
 ### 生成配置文件
 #### 会在config目录下生成geetest配置文件，同时在resources目录下生成视图文件
