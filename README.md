@@ -1,10 +1,10 @@
 # Laravel-Geetest For Laravel5
 > 采用了Germeyd的package，在此基础上增加了官方version3.0的使用
 ## 效果图
-### Version2.0
+### Version3.0
 ![image](https://github.com/LaravelChen/laravel-geetest/raw/master/images/one.png)
 
-### Version3.0
+### Version2.0
 ![image](https://github.com/LaravelChen/laravel-geetest/raw/master/images/two.png)
 
 ## 安装
@@ -12,7 +12,7 @@
 ```
 composer require laravelchen/laravel-geetest
 ```
-### 配置(在config目录的app文件下增加)
+### 配置(在config目录的app文件下)
 ```
 'providers' => [
        LaravelChen\Geetest\GeetestServiceProvider::class,
